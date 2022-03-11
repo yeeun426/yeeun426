@@ -13,13 +13,16 @@
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-2C2255?style=for-the-badge&logo=Android Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
+
+<a href="https://github.com/yeeun426" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+<img src=https://img.shields.io/badge/blog-ff5311.svg?&style=for-the-badge&logo=Blogger&logoColor=white alt=blog style="margin-bottom: 5px;" />
 
 <br/>  
-
+<br/>  
 <img src="https://github-readme-stats.vercel.app/api?username=yeeun426&show_icons=true&count_private=true&hide_border=true" align="center" />
-
-<br/>   
   
 </div>
 
