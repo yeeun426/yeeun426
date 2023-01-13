@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=yeeung&fontSize=40&animation=fadeIn&fontAlignY=30&desc=%20&descAlignY=60&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Yeeung%20Studio&fontSize=40&animation=fadeIn&fontAlignY=30&desc=%20&descAlignY=60&descAlign=60)
 ### Hi there, I'm Yeeun👋
 
 ### :fire:study:fire:
