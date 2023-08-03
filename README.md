@@ -27,3 +27,8 @@
 <a href="https://yeeeon.tistory.com/" target="_blank">
 <img src=https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white alt=blog style="margin-bottom: 5px;" />
 </a>
+
+<br/>
+<br/>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=thsudkcla7)](https://solved.ac/thsudkcla7)
