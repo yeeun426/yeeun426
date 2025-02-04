@@ -28,7 +28,7 @@
 <a href="https://github.com/yeeun426" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://yeeeon.tistory.com/" target="_blank">
+<a href="https://yeeun426.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white alt=blog style="margin-bottom: 5px;" />
 </a>
 
