@@ -20,9 +20,6 @@
 <br/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
 
 ### 🙏🏻contact🙏🏻
 <a href="https://github.com/yeeun426" target="_blank">
