@@ -22,12 +22,21 @@
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 
+### ☁️ Experience
+
+<p><strong>렛츠커리어 | Front-End Developer (2025.08 ~ )</strong></p>
+
+<p><strong>LG U+ | Ureca SW 교육 2기 Front-end (2025.01 ~ 2025.08)</strong><br/>
+→ Front-end 심화 교육 및 산학 프로젝트 참여</p>
+
+<p><strong>관광데이터 활용 공모전 (2022)</strong> 🏆 우수상</p>
+
 ### 🙏🏻contact🙏🏻
 <a href="https://github.com/yeeun426" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://yeeun426.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white alt=blog style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white alt=blog style="margin-bottom: 5px;" />
 </a>
 
 <br/>
