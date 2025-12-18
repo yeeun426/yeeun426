@@ -1,45 +1,31 @@
-<div align="center">
+<div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Yeeung%20Studio&fontSize=40&animation=fadeIn&fontAlignY=30&desc=%20&descAlignY=60&descAlign=60)
-### Hi there, I'm Yeeun👋
 
-### 🔥ing🔥
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Redux-white?style=for-the-badge&logo=redux&logoColor=purple"/>
+## 안녕하세요👋 
 
-### 🔥study🔥
+- 사용자 만족을 동력으로 삼아 더 나은 개발을 합니다.
+- 기술이 발전할 수록 사용자의 진짜 니즈를 놓치지 않으려 노력합니다.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+## Tech Stacks
 
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind,html,css)](https://skillicons.dev)
 
-### ☁️ Experience
+[![My Skills](https://skillicons.dev/icons?i=python,java,mysql)](https://skillicons.dev)
 
-<p><strong>렛츠커리어 | Front-End Developer (2025.08 ~ )</strong></p>
+## Experiences
 
-<p><strong>LG U+ | Ureca SW 교육 2기 Front-end (2025.01 ~ 2025.08)</strong><br/>
-→ Front-end 심화 교육 및 산학 프로젝트 참여</p>
+- 👾 [렛츠커리어](https://www.letscareer.co.kr/) Front-End Developer (2025. 08 ~)
 
-<p><strong>관광데이터 활용 공모전 (2022)</strong> 🏆 우수상</p>
+  
+- ⛽️ [LG유플러스 유레카 2기](https://event.multicampus.com/lguplus) Front-End 과정 (2025. 01 ~ 2025. 08)
 
-### 🙏🏻contact🙏🏻
-<a href="https://github.com/yeeun426" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://yeeun426.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white alt=blog style="margin-bottom: 5px;" />
-</a>
 
-<br/>
+- 🏢 [테크랩스](https://www.techlabs.co.kr/) Front-end Intern (2023.09 ~ 2023.12)
+
+
+- 🏆 [2022 관광데이터 활용 공모전](https://viewer.knto.or.kr:1265/v/pQNUouJT6hY) Maplix 우수상 수상 (2022)
+
 <br/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=thsudkcla7)](https://solved.ac/thsudkcla7)
