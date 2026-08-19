@@ -15,7 +15,7 @@
 
 ## Experiences
 
-- 👾 [렛츠커리어](https://www.letscareer.co.kr/) Front-End Developer (2025. 08 ~)
+- 👾 [렛츠커리어](https://www.letscareer.co.kr/) Front-End Developer (2025. 08 ~ 2026.09)
 
   
 - ⛽️ [LG유플러스 유레카 2기](https://event.multicampus.com/lguplus) Front-End 과정 (2025. 01 ~ 2025. 08)
